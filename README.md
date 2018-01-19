@@ -1,0 +1,1 @@
+This is an academic example to help learning microservices concepts. This is a microservicre developed with node.js and express.js. This microservcie is vased on Daniel Khan tutorial about microsevcies. This microservice get as input a location and responds with the actual time in that location.
